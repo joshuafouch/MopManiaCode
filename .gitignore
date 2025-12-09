@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# IGNORE THOSE DAMN WAV FILES
+*.wav
+
 # User-specific files
 *.rsuser
 *.suo
